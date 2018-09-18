@@ -1,0 +1,33 @@
+{
+  "name": "login-and-register",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.0.0",
+    "bourbon": "^5.1.0",
+    "moment": "^2.22.2",
+    "react": "^16.4.2",
+    "react-autosuggest": "^9.4.0",
+    "react-bootstrap": "^0.32.4",
+    "react-bootstrap-sweetalert": "^4.4.1",
+    "react-bootstrap-table": "^4.3.1",
+    "react-bootstrap-table-next": "^1.1.4",
+    "react-bootstrap-table2-filter": "^1.0.0",
+    "react-datepicker": "^1.6.0",
+    "react-dom": "^16.4.2",
+    "react-number-format": "^3.5.2",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "react-select": "^2.0.0",
+    "sweetalert2": "^7.26.28"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
